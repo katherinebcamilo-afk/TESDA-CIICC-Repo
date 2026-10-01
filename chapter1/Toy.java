@@ -1,3 +1,4 @@
+package chapter1;
 /**
  * Toy object
  * has property of name, brand, price, quantity

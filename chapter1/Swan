@@ -1,0 +1,17 @@
+class Swan{
+    int numberEggs;
+    public static void main (String[] asajkabj){
+        Swan mother = new Swan();
+        mother.numberEggs = 1; //writing object fields
+        System.out.println("Swan number of eggs:")
+    }
+}
+class Name{
+    String first = "Katherine";
+    String last = "Camilo";
+    String full = "Katherine Camilo";
+    String full = first+last;
+  public static void main (String[] asajkabj){
+        Name name1 = new name();
+        System.out.println(name1.full);
+        name1.first = Anton
